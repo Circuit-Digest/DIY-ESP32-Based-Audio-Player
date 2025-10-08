@@ -257,7 +257,7 @@ void loop() {
 - **HxD Hex Editor:** [Official Download](https://mh-nexus.de/en/hxd/)
 - **ESP32 Datasheet:** [Espressif Documentation](https://www.espressif.com/en/products/socs/esp32)
 - **LM386 Datasheet:** [Texas Instruments](https://www.ti.com/product/LM386).
-- **ESP32 Projects:** [ESP32 Projects](https://circuitdigest.com/esp32-projects)
+- **ESP32:** [ESP32 Projects](https://circuitdigest.com/esp32-projects)
 
 ## License
 
